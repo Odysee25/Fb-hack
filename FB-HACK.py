@@ -35,7 +35,7 @@ def runntxt(s):
 
 def banner():
     os.system('clear')
-    print " "
+    print ("")
     runntxt(GL+"              Assalamu'@laikum. ^_^")
     runntxt(WW+"   ..................  ANDA MENCOBA MENGHUBUNGI")
     runntxt(WW+"     ....       MR.K7C8NG")
